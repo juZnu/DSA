@@ -1,4 +1,4 @@
-#BUBBLE SORT
+#SELECTION SORT
 #swap the minimum value into the position then move to the next index
 #Time Complexity : O(N^2)
 #Space Complexity : O(1)
