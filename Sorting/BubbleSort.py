@@ -1,6 +1,6 @@
 #BUBBLE SORT
 #Compares adjacent two numbers in the list and then swaps the elements 
-#Time Complexity : O(N LogN)
+#Time Complexity : O(N^2)
 #Space Complexity : O(1)
 
 def BubbleSort(inputList,ascending = True):
